@@ -6,7 +6,7 @@ I know how to use:
 
 I can make simple python programs and I am currently learning how to use: Sockets, Threading, Pygame, Tkinter (and PyQt5) and a few other modules.
 
-I'm the future I plan to learn machine learning using modules such as Pytorch, Tensorflow and Keras
+In the future I plan to learn machine learning using modules such as Pytorch, Tensorflow and Keras
 
 - HTML, CSS and JavaScript
 
